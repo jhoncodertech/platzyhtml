@@ -1,0 +1,9 @@
+existen 2 tipos de etiquetas 
+contenedoras y de contenido
+de las contenedoras van de contenido 
+ejemplo 
+
+<header>
+    <nav></nav>
+</header>
+
